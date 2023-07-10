@@ -1,5 +1,8 @@
 # MyJavaJourney
-![Logo do Java](imgs/Java-logo.png)
+
+
+<img src="imgs/Java-logo.png" width="200" alt="Logo do Java">
+
 Bem-vindo ao meu repositório de aprendizado de Java! Este repositório foi criado para armazenar todo o meu progresso e materiais relacionados ao curso do Nélio Alves na Udemy. Durante o curso, estarei explorando uma ampla gama de tópicos e conceitos essenciais do Java, bem como ferramentas e frameworks populares para o desenvolvimento profissional em Java.
 
 ## Sobre o Curso
@@ -33,7 +36,7 @@ Além disso, também explorarei as principais ferramentas e frameworks usados pr
 
 Neste repositório, você encontrará uma organização clara dos recursos relacionados ao curso. A estrutura inclui:
 
-- `Exercicios/`: Esta pasta contém uma coleção de exercícios propostos ao longo do curso, juntamente com suas soluções correspondentes.
+- `Exercícios/`: Esta pasta contém uma coleção de exercícios propostos ao longo do curso, juntamente com suas soluções correspondentes.
 
 - `Projetos/`: Aqui você encontrará os projetos práticos desenvolvidos durante o curso. Cada projeto está em sua própria pasta, com instruções e documentação específicas dentro de cada uma delas.
 
@@ -43,11 +46,23 @@ Neste repositório, você encontrará uma organização clara dos recursos relac
 
 - `Recursos/`: Nesta pasta, você encontrará materiais complementares, como referências, tutoriais, links úteis e livros recomendados para aprofundar seus conhecimentos em Java.
 
+## Exercícios
+
+Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
+
+- [Estrutura condicional](Exercícios/Estrutura-condicional/): Explore problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
+- [Estrutura repetitiva](Exercícios/Estrutura-repetitiva/):  Desenvolva habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
+- [Estrutura sequencial](Exercícios/Estrutura-sequencial/): Aplique loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
+- [Iniciando POO](Exercícios/Iniciando-POO/):  Entre no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
+
+Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
+
+
 ## Como utilizar este repositório
 
 Sinta-se à vontade para explorar o conteúdo deste repositório de acordo com seus interesses e necessidades de aprendizado. Aqui estão algumas sugestões:
 
-- Para revisar os exercícios propostos, acesse a pasta `Exercicios/` e escolha um exercício de seu interesse. As soluções correspondentes estão disponíveis na mesma pasta.
+- Para revisar os exercícios propostos, acesse a pasta `Exercícios/` e escolha um exercício de seu interesse. As soluções correspondentes estão disponíveis na mesma pasta.
 
 - Caso queira verificar os projetos práticos desenvolvidos ao longo do curso, navegue até a pasta `Projetos/` e escolha um projeto para explorar. Dentro de cada pasta de projeto, você encontrará instruções detalhadas e documentação relevante.
 
