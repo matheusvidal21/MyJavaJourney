@@ -7,13 +7,13 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 ###  Exercício 01
 <img src="imgs/1.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Exercícios/Estrutura%20condicional/src/exercicios01/Main.java)
+### Solução 1: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios01/Main.java)
 
 
 ###  Exercício 02
 <img src="imgs/2.png" alt="Exercicio 01">
 
-### Solução 2: [Clique aqui](/Exercícios/Exercícios/Estrutura%20condicional/src/exercicios02/Main.java)
+### Solução 2: [Clique aqui](Exercícios/Estrutura%20condicional/src/exercicios02/Main.java)
 
 
 ###  Exercício 03
