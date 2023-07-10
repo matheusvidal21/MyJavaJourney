@@ -1,4 +1,5 @@
 # MyJavaJourney
+![Logo do Java](imgs/Java-logo.png)
 Bem-vindo ao meu repositório de aprendizado de Java! Este repositório foi criado para armazenar todo o meu progresso e materiais relacionados ao curso do Nélio Alves na Udemy. Durante o curso, estarei explorando uma ampla gama de tópicos e conceitos essenciais do Java, bem como ferramentas e frameworks populares para o desenvolvimento profissional em Java.
 
 ## Sobre o Curso
