@@ -1,11 +1,11 @@
-# MyJavaJourney
+# MyJavaJourney ☕🖥️
 
 
 <img src="imgs/Java-logo.png" width="200" alt="Logo do Java">
 
 Bem-vindo ao meu repositório de aprendizado de Java! Este repositório foi criado para armazenar todo o meu progresso e materiais relacionados ao curso do Nélio Alves na Udemy. Durante o curso, estarei explorando uma ampla gama de tópicos e conceitos essenciais do Java, bem como ferramentas e frameworks populares para o desenvolvimento profissional em Java.
 
-## Sobre o Curso
+## 📚 Sobre o Curso
 O curso ministrado pelo Nélio Alves na Udemy oferece uma sólida base no desenvolvimento de software em Java. Ao longo do curso, irei aprender:
 - Lógica de programação e algoritmos
 - Sintaxe da linguagem Java
@@ -32,7 +32,7 @@ Além disso, também explorarei as principais ferramentas e frameworks usados pr
 - Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
 
 
-## Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
 Neste repositório, você encontrará uma organização clara dos recursos relacionados ao curso. A estrutura inclui:
 
@@ -46,7 +46,7 @@ Neste repositório, você encontrará uma organização clara dos recursos relac
 
 - `Recursos/`: Nesta pasta, você encontrará materiais complementares, como referências, tutoriais, links úteis e livros recomendados para aprofundar seus conhecimentos em Java.
 
-## Exercícios
+## 📝 Exercícios
 
 Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
 
@@ -58,7 +58,7 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
 
-## Como utilizar este repositório
+## 💡 Como utilizar este repositório
 
 Sinta-se à vontade para explorar o conteúdo deste repositório de acordo com seus interesses e necessidades de aprendizado. Aqui estão algumas sugestões:
 
@@ -72,7 +72,7 @@ Sinta-se à vontade para explorar o conteúdo deste repositório de acordo com s
 
 - Para recursos adicionais, como referências, tutoriais e livros recomendados, verifique a pasta `Recursos/` para obter mais informações.
 
-## Contribuição
+## :octocat: Contribuição
 
 Este repositório é pessoal e destinado ao meu próprio aprendizado de Java. No entanto, se você encontrar algum problema, erro ou tiver sugestões para melhorias, fique à vontade para abrir uma "Issue" ou enviar um "Pull Request". Sua contribuição é bem-vinda!
 
