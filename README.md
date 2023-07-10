@@ -6,7 +6,7 @@
 Bem-vindo ao meu repositório de aprendizado de Java! Este repositório foi criado para armazenar todo o meu progresso e materiais relacionados ao curso do Nélio Alves na Udemy. Durante o curso, estarei explorando uma ampla gama de tópicos e conceitos essenciais do Java, bem como ferramentas e frameworks populares para o desenvolvimento profissional em Java.
 
 ## 📚 Sobre o Curso
-O curso ministrado pelo Nélio Alves na Udemy oferece uma sólida base no desenvolvimento de software em Java. Ao longo do curso, irei aprender:
+O curso ministrado pelo Nélio Alves na Udemy oferece uma sólida base no desenvolvimento de software em Java. Se você deseja ter uma visão completa e acompanhar todo o percurso de formação do curso, veja o [Percurso de formação](/Notas/01-Curso-Java-COMPLETO.pdf). Ao longo do curso, irei aprender:
 - Lógica de programação e algoritmos
 - Sintaxe da linguagem Java
 - Classes, atributos e métodos
