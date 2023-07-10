@@ -50,10 +50,10 @@ Neste repositório, você encontrará uma organização clara dos recursos relac
 
 Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
 
-- [Estrutura condicional](Exercícios/Estrutura%20condicional/): Explore problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
-- [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/):  Desenvolva habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
-- [Estrutura sequencial](Exercícios/Estrutura%20sequencial/): Aplique loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
-- [Iniciando POO](Exercícios/Iniciando%20POO/):  Entre no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
+- [Estrutura condicional](Exercícios/Estrutura%20condicional/README.md): Explore problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
+- [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/README.md):  Desenvolva habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
+- [Estrutura sequencial](Exercícios/Estrutura%20sequencial/README.md): Aplique loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
+- [Iniciando POO](Exercícios/Iniciando%20POO/README.md):  Entre no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
 
 Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
