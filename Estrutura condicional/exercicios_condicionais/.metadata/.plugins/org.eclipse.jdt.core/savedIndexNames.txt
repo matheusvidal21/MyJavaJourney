@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Matheus\Desktop\MyJavaJourney\Estrutura condicional\exercicios_condicionais\.metadata\.plugins\org.eclipse.jdt.core
