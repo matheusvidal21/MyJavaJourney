@@ -13,9 +13,9 @@ public class Program {
 
 		System.out.print("Quantas pessoas você vai digitar? ");
 		int n = sc.nextInt();
-		People[] peoples = new People[n];
+		People[] people = new People[n];
 		
-		for(int i = 0; i < peoples.length; i++) {
+		for(int i = 0; i < people.length; i++) {
 			System.out.println("Dados da " + (i+1) + "a pessoa:");
 			
 			System.out.print("Nome: ");
@@ -28,15 +28,15 @@ public class Program {
 			System.out.print("Altura: ");
 			double altura = sc.nextDouble();
 			
-			peoples[i] = new People(nome, idade, altura);
+			people[i] = new People(nome, idade, altura);
 			
 		}
 		
 		int menores = 0;
 		double sum = 0.0;
-		for(int i = 0; i < peoples.length; i++) {
-			sum += peoples[i].getHeight();
-			if(peoples[i].getAge() < 16) {
+		for(int i = 0; i < people.length; i++) {
+			sum += people[i].getHeight();
+			if(people[i].getAge() < 16) {
 				menores++;
 			}
 		}
@@ -50,9 +50,9 @@ public class Program {
 		double percentualMenores = ((double) menores / n) * 100.0;
 
 		System.out.printf("Pessoas com menos de 16 anos: %.1f%%n", percentualMenores);
-		for(int i = 0; i < peoples.length; i++) {
-			if(peoples[i].getAge() < 16) {
-				System.out.println(peoples[i].getName());
+		for(int i = 0; i < people.length; i++) {
+			if(people[i].getAge() < 16) {
+				System.out.println(people[i].getName());
 			}
 		}
 		
