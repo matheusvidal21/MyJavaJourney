@@ -32,20 +32,6 @@ Além disso, também explorarei as principais ferramentas e frameworks usados pr
 - Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
 
 
-## 📁 Estrutura do Repositório
-
-Neste repositório, você encontrará uma organização clara dos recursos relacionados ao curso. A estrutura inclui:
-
-- `Exercícios/`: Esta pasta contém uma coleção de exercícios propostos ao longo do curso, juntamente com suas soluções correspondentes.
-
-- `Projetos/`: Aqui você encontrará os projetos práticos desenvolvidos durante o curso. Cada projeto está em sua própria pasta, com instruções e documentação específicas dentro de cada uma delas.
-
-- `Exemplos/`: Exemplos de código relevantes e ilustrativos compartilhados durante as aulas.
-
-- `Notas/`: Esta pasta contém apontamentos e anotações sobre conceitos, recursos e dicas importantes relacionadas ao Java.
-
-- `Recursos/`: Nesta pasta, você encontrará materiais complementares, como referências, tutoriais, links úteis e livros recomendados para aprofundar seus conhecimentos em Java.
-
 ## 📝 Exercícios
 Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
 
@@ -63,9 +49,24 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 
 - [Composição e Enumeração](Exercícios/Composição%20e%20enumeração/): Utilizando a composição de classes e enumeração para construir relacionamentos entre objetos e representar conjuntos de valores fixos e restritos.
 
-- [Herança e Polimorfismo](Exercícios/Herança%20e%20Polimorfismo/): Explorando a relação de herança entre classes e a capacidade do polimorfismo de criar métodos e comportamentos que podem ser implementados de maneiras diferentes em classes derivadas.
+- [Herança e Polimorfismo](Exercícios/Herança%20e%20polimorfismo/): Explorando a relação de herança entre classes e a capacidade do polimorfismo de criar métodos e comportamentos que podem ser implementados de maneiras diferentes em classes derivadas.
 
 Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
+
+
+## 📁 Estrutura do Repositório
+
+Neste repositório, você encontrará uma organização clara dos recursos relacionados ao curso. A estrutura inclui:
+
+- `Exercícios/`: Esta pasta contém uma coleção de exercícios propostos ao longo do curso, juntamente com suas soluções correspondentes.
+
+- `Projetos/`: Aqui você encontrará os projetos práticos desenvolvidos durante o curso. Cada projeto está em sua própria pasta, com instruções e documentação específicas dentro de cada uma delas.
+
+- `Exemplos/`: Exemplos de código relevantes e ilustrativos compartilhados durante as aulas.
+
+- `Notas/`: Esta pasta contém apontamentos e anotações sobre conceitos, recursos e dicas importantes relacionadas ao Java.
+
+- `Recursos/`: Nesta pasta, você encontrará materiais complementares, como referências, tutoriais, links úteis e livros recomendados para aprofundar seus conhecimentos em Java.
 
 
 ## 💡 Como utilizar este repositório
