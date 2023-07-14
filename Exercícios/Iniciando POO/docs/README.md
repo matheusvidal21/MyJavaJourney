@@ -14,27 +14,27 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 ###  Exercício 01
 <img src="1.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Iniciando%20POO/exercicio01)
+### Solução 1: [Clique aqui](/Exercícios/Iniciando%20POO/src/exercicio01)
 
 
 ###  Exercício 02
 <img src="2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Iniciando%20POO/exercicio02)
+### Solução 2: [Clique aqui](/Exercícios/Iniciando%20POO/src/exercicio02)
 
 
 ###  Exercício 03
 <img src="3.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Iniciando%20POO/exercicio03)
+### Solução 3: [Clique aqui](/Exercícios/Iniciando%20POO/src/exercicio03)
 
 ###  Exercício 04
 <img src="4.png" alt="Exercicio 04">
 
-### Solução 4: [Clique aqui](/Exercícios/Iniciando%20POO/exercicio04)
+### Solução 4: [Clique aqui](/Exercícios/Iniciando%20POO/src/exercicio04)
 
 ###  Exercício 05
 <img src="5.1.png" alt="Exercicio 05">
 <img src="5.2.png" alt="Exercicio 05">
 
-### Solução 5: [Clique aqui](/Exercícios/Iniciando%20POO/exercicio05)
+### Solução 5: [Clique aqui](/Exercícios/Iniciando%20POO/src/exercicio05)

@@ -13,31 +13,31 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 ###  Exercício 01
 <img src="1.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio01/Program.java)
+### Solução 1: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio01/Program.java)
 
 
 ###  Exercício 02
 <img src="2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio02/Program.java)
+### Solução 2: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio02/Program.java)
 
 
 ###  Exercício 03
 <img src="3.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio03/Program.java)
+### Solução 3: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio03/Program.java)
 
 ###  Exercício 04
 <img src="4.png" alt="Exercicio 04">
 
-### Solução 4: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio04/Program.java)
+### Solução 4: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio04/Program.java)
 
 ###  Exercício 05
 <img src="5.png" alt="Exercicio 05">
 
-### Solução 5: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio05/Program.java)
+### Solução 5: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio05/Program.java)
 
 ###  Exercício 06
 <img src="6.png" alt="Exercicio 06">
 
-### Solução 6: [Clique aqui](/Exercícios/Estrutura%20sequencial/exercicio06/Program.java)
+### Solução 6: [Clique aqui](/Exercícios/Estrutura%20sequencial/src/exercicio06/Program.java)

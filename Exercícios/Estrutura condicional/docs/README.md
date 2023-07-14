@@ -14,41 +14,41 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 ###  Exercício 01
 <img src="1.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios01/Main.java)
+### Solução 1: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios01/Main.java)
 
 
 ###  Exercício 02
 <img src="2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios02/Main.java)
+### Solução 2: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios02/Main.java)
 
 
 ###  Exercício 03
 <img src="3.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios03/Main.java)
+### Solução 3: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios03/Main.java)
 
 ###  Exercício 04
 <img src="4.png" alt="Exercicio 04">
 
-### Solução 4: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios04/Main.java)
+### Solução 4: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios04/Main.java)
 
 ###  Exercício 05
 <img src="5.png" alt="Exercicio 05">
 
-### Solução 5: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios05/Main.java)
+### Solução 5: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios05/Main.java)
 
 ###  Exercício 06
 <img src="6.png" alt="Exercicio 06">
 
-### Solução 6: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios06/Main.java)
+### Solução 6: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios06/Main.java)
 
 ###  Exercício 07
 <img src="7.png" alt="Exercicio 07">
 
-### Solução 7: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios07/Main.java)
+### Solução 7: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios07/Main.java)
 
 ###  Exercício 08
 <img src="8.png" alt="Exercicio 08">
 
-### Solução 8: [Clique aqui](/Exercícios/Estrutura%20condicional/exercicios08/Main.java)
+### Solução 8: [Clique aqui](/Exercícios/Estrutura%20condicional/src/exercicios08/Main.java)

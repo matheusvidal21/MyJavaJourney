@@ -14,16 +14,16 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 ###  Exercício 01
 <img src="1.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Estrutura%20repetitiva/exercicio01/Program.java)
+### Solução 1: [Clique aqui](/Exercícios/Estrutura%20repetitiva/src/exercicio01/Program.java)
 
 
 ###  Exercício 02
 <img src="2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Estrutura%20repetitiva/exercicio02/Program.java)
+### Solução 2: [Clique aqui](/Exercícios/Estrutura%20repetitiva/src/exercicio02/Program.java)
 
 
 ###  Exercício 03
 <img src="3.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Estrutura%20repetitiva/exercicio03/Program.java)
+### Solução 3: [Clique aqui](/Exercícios/Estrutura%20repetitiva/src/exercicio03/Program.java)
