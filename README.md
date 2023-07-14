@@ -49,17 +49,19 @@ Neste repositório, você encontrará uma organização clara dos recursos relac
 ## 📝 Exercícios
 Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
 
-- [Estrutura condicional](Exercícios/Estrutura%20condicional/README.md): Explorando problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
+- [Estrutura condicional](Exercícios/Estrutura%20condicional/): Explorando problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
 
-- [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/README.md): Desenvolvendo habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
+- [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/): Desenvolvendo habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
 
-- [Estrutura sequencial](Exercícios/Estrutura%20sequencial/README.md): Aplicando loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
+- [Estrutura sequencial](Exercícios/Estrutura%20sequencial/): Aplicando loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
 
-- [Iniciando POO](Exercícios/Iniciando%20POO/README.md): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
+- [Iniciando POO](Exercícios/Iniciando%20POO/): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
 
-- [Arrays e listas](Exercícios/Arrays%20e%20listas/README.md): Aprendendo a lidar com coleções de elementos em sequência, utilizando arrays e listas para armazenar e manipular dados.
+- [Arrays e listas](Exercícios/Arrays%20e%20listas/): Aprendendo a lidar com coleções de elementos em sequência, utilizando arrays e listas para armazenar e manipular dados.
 
-- [Matriz](Exercícios/Matriz/README.md): Manipulando e processando conjuntos de dados estruturados em formato de matriz.
+- [Matriz](Exercícios/Matriz/): Manipulando e processando conjuntos de dados estruturados em formato de matriz.
+
+- [Composição e enumeração](Exercícios/Composição%20e%20enumeração/): Utilizando a composição de classes e enumeração para construir relacionamentos entre objetos e representar conjuntos de valores fixos e restritos.
 
 Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
