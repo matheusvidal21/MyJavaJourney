@@ -20,22 +20,22 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 <img src="1.1.png" alt="Exercicio 01">
 <img src="1.2.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Herança%20e%20Polimorfismo/src/exercicio01)
+### Solução 1: [Clique aqui](/Exercícios/Herança%20e%20polimorfismo/src/exercicio01)
 
 ###  Exercício 02
 <img src="2.1.png" alt="Exercicio 02">
 <img src="2.2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Herança%20e%20Polimorfismo/src/exercicio02)
+### Solução 2: [Clique aqui](/Exercícios/Herança%20e%20polimorfismo/src/exercicio02)
 
 ###  Exercício 03
 <img src="3.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Herança%20e%20Polimorfismo/src/exercicio03)
+### Solução 3: [Clique aqui](/Exercícios/Herança%20e%20polimorfismo/src/exercicio03)
 
 ###  Exercício 04
 <img src="4.1.png" alt="Exercicio 04">
 <img src="4.2.png" alt="Exercicio 04">
 
-### Solução 4: [Clique aqui](/Exercícios/Herança%20e%20Polimorfismo/src/exercicio04)
+### Solução 4: [Clique aqui](/Exercícios/Herança%20e%20polimorfismo/src/exercicio04)
 

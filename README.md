@@ -30,6 +30,28 @@ Além disso, também explorarei as principais ferramentas e frameworks usados pr
 - Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
 
 
+## 📝 Exercícios
+Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
+
+- [`Estrutura sequencial`](Exercícios/Estrutura%20sequencial/): Explorando problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
+
+- [`Estrutura condicional`](Exercícios/Estrutura%20condicional/): Desenvolvendo habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
+
+- [`Estrutura repetitiva`](Exercícios/Estrutura%20repetitiva/): Aplicando loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
+
+- [`Iniciando POO`](Exercícios/Iniciando%20POO/): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
+
+- [`Arrays e listas`](Exercícios/Arrays%20e%20listas/): Aprendendo a lidar com coleções de elementos em sequência, utilizando arrays e listas para armazenar e manipular dados.
+
+- [`Matriz`](Exercícios/Matriz/): Manipulando e processando conjuntos de dados estruturados em formato de matriz.
+
+- [`Composição e Enumeração`](Exercícios/Composição%20e%20enumeração/): Utilizando a composição de classes e enumeração para construir relacionamentos entre objetos e representar conjuntos de valores fixos e restritos.
+
+- [`Herança e Polimorfismo`](Exercícios/Herança%20e%20polimorfismo/): Explorando a relação de herança entre classes e a capacidade do polimorfismo de criar métodos e comportamentos que podem ser implementados de maneiras diferentes em classes derivadas.
+
+Você pode encontrar todos os exercícios na pasta [`Exercícios/`](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
+
+
 ## 📁 Estrutura do Repositório
 
 Neste repositório, você encontrará uma organização clara dos recursos relacionados ao curso. A estrutura inclui:
@@ -43,27 +65,6 @@ Neste repositório, você encontrará uma organização clara dos recursos relac
 - `Notas/`: Esta pasta contém apontamentos e anotações sobre conceitos, recursos e dicas importantes relacionadas ao Java.
 
 - `Recursos/`: Nesta pasta, você encontrará materiais complementares, como referências, tutoriais, links úteis e livros recomendados para aprofundar seus conhecimentos em Java.
-
-## 📝 Exercícios
-Esta seção contém os exercícios propostos durante o curso de Java. Cada exercício está localizado em sua própria pasta, com os arquivos e soluções correspondentes.
-
-- [Estrutura sequencial](Exercícios/Estrutura%20sequencial/): Explorando problemas de lógica sequencial, realizando cálculos, e interagindo com entrada/saída de dados. 
-
-- [Estrutura condicional](Exercícios/Estrutura%20condicional/): Desenvolvendo habilidades em tomada de decisão, resolvendo problemas baseados em condições específicas usando instruções condicionais.
-
-- [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/): Aplicando loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
-
-- [Iniciando POO](Exercícios/Iniciando%20POO/): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
-
-- [Arrays e listas](Exercícios/Arrays%20e%20listas/): Aprendendo a lidar com coleções de elementos em sequência, utilizando arrays e listas para armazenar e manipular dados.
-
-- [Matriz](Exercícios/Matriz/): Manipulando e processando conjuntos de dados estruturados em formato de matriz.
-
-- [Composição e Enumeração](Exercícios/Composição%20e%20enumeração/): Utilizando a composição de classes e enumeração para construir relacionamentos entre objetos e representar conjuntos de valores fixos e restritos.
-
-- [Herança e Polimorfismo](Exercícios/Herança%20e%20Polimorfismo/): Explorando a relação de herança entre classes e a capacidade do polimorfismo de criar métodos e comportamentos que podem ser implementados de maneiras diferentes em classes derivadas.
-
-Você pode encontrar todos os exercícios na pasta [Exercícios/](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
 
 ## 💡 Como utilizar este repositório
