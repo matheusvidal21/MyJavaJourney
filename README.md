@@ -41,7 +41,7 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 
 - [Estrutura repetitiva](Exercícios/Estrutura%20repetitiva/): Aplicando loops para realizar tarefas repetidas, como processar listas de dados, executar cálculos e exibir padrões.
 
-- [Iniciando POO](Exercícios/Iniciando%20POO/): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
+- [`Iniciando POO`](Exercícios/Iniciando%20POO/): Entrando no mundo da Programação Orientada a Objetos (POO), criando classes, objetos e explorando conceitos como encapsulamento.
 
 - [Arrays e listas](Exercícios/Arrays%20e%20listas/): Aprendendo a lidar com coleções de elementos em sequência, utilizando arrays e listas para armazenar e manipular dados.
 
