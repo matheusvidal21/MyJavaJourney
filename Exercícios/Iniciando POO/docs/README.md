@@ -1,4 +1,4 @@
-# Iniciando POO
+# 🏗️ Iniciando POO
 
 #### Nesta lista de exercícios, resolvi uma variedade de problemas utilizando os princípios da POO. A POO é uma abordagem de programação que organiza o código em torno de objetos, que representam entidades do mundo real e possuem propriedades (atributos) e comportamentos (métodos).
 

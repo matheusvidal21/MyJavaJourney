@@ -1,4 +1,4 @@
-# Estrutura condicional
+# ⚖️ Estrutura condicional
 
 #### Esta pasta contém uma lista de exercícios que se concentram na prática da estrutura condicional em programação. Cada exercício aborda uma situação específica, fui desafiado a escrever um programa que resolva o problema proposto usando instruções condicionais.
 

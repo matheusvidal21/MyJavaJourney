@@ -1,4 +1,4 @@
-# Herança e Polimorfismo
+# 🧬 Herança e Polimorfismo
 
 #### Esta seção abrange exercícios práticos que visam aprofundar o conhecimento em herança e polimorfismo, dois conceitos fundamentais da Programação Orientada a Objetos (POO). Além disso, essa lista aborda conceitos sobre Upcasting, Downcasting, Sobreposição, Classes abstratas e Métodos abstratos.
 

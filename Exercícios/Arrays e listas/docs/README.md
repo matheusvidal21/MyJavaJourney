@@ -1,4 +1,4 @@
-# Arrays e listas
+# 📚 Arrays e listas
 
 #### Esta pasta contém uma lista de exercícios que visa a prática e o aprofundamento do conhecimento em arrays e listas. Cada exercício aborda uma situação específica, onde fui desafiado a utilizar esses conceitos para resolver problemas relacionados. 
 

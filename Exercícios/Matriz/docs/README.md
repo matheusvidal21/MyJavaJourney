@@ -1,4 +1,4 @@
-# Matriz
+# 🧩 Matriz
 
 #### Esta pasta contém uma lista de exercícios que visa a prática e o aprofundamento do conhecimento em matrizes. Cada exercício aborda uma situação específica, onde fui desafiado a utilizar matrizes para resolver problemas relacionados.
 

@@ -1,4 +1,4 @@
-# Estrutura repetitiva
+# 🔁 Estrutura repetitiva
 
 #### Nesta seção, resolvi exercícios que envolvem a aplicação de estruturas de repetição, como for, while e do-while. Os problemas propostos permitiram praticar a execução repetida de blocos de código com base em determinadas condições ou um número específico de iterações. Trabalhei com loops para realizar cálculos, processar listas de dados, exibir padrões e muito mais.
 

@@ -1,4 +1,4 @@
-# Estrutura sequencial
+# 📊 Estrutura sequencial
 
 #### Nesta seção de exercícios, resolvi problemas que envolvem a aplicação da estrutura sequencial em programação. Os exercícios abordam a resolução de tarefas que seguem uma sequência lógica de instruções, como cálculos matemáticos simples, conversões de unidades, e entrada/saída de dados.
 

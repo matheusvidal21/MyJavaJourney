@@ -1,4 +1,4 @@
-# Composição de Classes e Enumeração
+# 🧱 Composição de Classes e Enumeração
 
 #### Esta seção explora a composição de classes e enumeração em Java. Resolvi exercícios práticos que demonstram como usar a composição para construir relacionamentos entre objetos e como aproveitar as enumerações para representar conjuntos fixos de valores.
 
