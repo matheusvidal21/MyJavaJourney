@@ -18,6 +18,12 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 
 ### Solução 1: [Clique aqui](/Exercícios/Exceptions/src/exercicio01/)
 
+###  Exercício 02
+<img src="2.1.png" alt="Exercicio 02">
+<img src="2.2.png" alt="Exercicio 02">
+<img src="2.3.png" alt="Exercicio 02">
+
+### Solução 2: [Clique aqui](/Exercícios/Exceptions/src/exercicio02/)
 
 
 
