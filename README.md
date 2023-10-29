@@ -50,6 +50,10 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 
 - ⚠️ [`Exceptions`](Exercícios/Exceptions/): Lidando com erros e exceções em Java, utilizando blocos try-catch para capturar e tratar exceções lançadas durante a execução do programa. Desenvolvendo habilidades para identificar e lidar com situações de erro de forma adequada, garantindo a robustez e estabilidade do código.
 
+- 📄 [`Trabalhando com arquivos`](Exercícios/Trabalhando%20com%20arquivos/): Explorando operações de leitura e escrita de arquivos em Java utilizando BufferedReader, BufferedWriter, FileReader e FileWriter, e outras funcionalidades relacionadas a arquivos.
+
+- 🌐 [`Interfaces`](Exercícios/Interfaces/): Aprofundando o conhecimento em interfaces em Java, explorando a implementação e o uso de interfaces para facilitar a comunicação e a interoperabilidade entre objetos.
+
 Você pode encontrar todos os exercícios na pasta [`Exercícios/`](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
 
