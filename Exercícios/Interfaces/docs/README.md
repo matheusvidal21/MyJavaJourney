@@ -15,16 +15,16 @@ Abaixo estão os exercícios propostos nesta lista, juntamente com links para as
 <img src="1.2.png" alt="Exercicio 01">
 <img src="1.3.png" alt="Exercicio 01">
 
-### Solução 1: [Clique aqui](/Exercícios/Interfaces/src/exercicio01/application/)
+### Solução 1: [Clique aqui](/Exercícios/Interfaces/src/exercicio01/)
 
 ###  Exercício 02
 <img src="2.1.png" alt="Exercicio 02">
 <img src="2.2.png" alt="Exercicio 02">
 
-### Solução 2: [Clique aqui](/Exercícios/Interfaces/src/exercicio02/application/)
+### Solução 2: [Clique aqui](/Exercícios/Interfaces/src/exercicio02/)
 
 ###  Exercício 03
 <img src="3.1.png" alt="Exercicio 03">
 <img src="3.2.png" alt="Exercicio 03">
 
-### Solução 3: [Clique aqui](/Exercícios/Interfaces/src/exercicio03/application/)
+### Solução 3: [Clique aqui](/Exercícios/Interfaces/src/exercicio03/)
