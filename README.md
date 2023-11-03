@@ -54,6 +54,9 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 
 - 🌐 [`Interfaces`](Exercícios/Interfaces/): Aprofundando o conhecimento em interfaces em Java, explorando a implementação e o uso de interfaces para facilitar a comunicação e a interoperabilidade entre objetos.
 
+- 🗺️ [`Generics, Set e Map`](Exercícios/Generics,%20Set%20e%20Map/): Aprofundando o entendimento sobre Generics em Java, uma poderosa ferrramenta para trablhar com diferentes tipos de dados de forma flexível e segura. E explorando o uso de conjuntos e mapas, incluindo HashSet, TreeSet, LinkedHashSet, HashMap, TreeMap e LinkedHashMap, para manipular dados de forma eficiente e segura.
+
+
 Você pode encontrar todos os exercícios na pasta [`Exercícios/`](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
 
