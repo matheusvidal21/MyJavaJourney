@@ -56,6 +56,7 @@ Esta seção contém os exercícios propostos durante o curso de Java. Cada exer
 
 - 🗺️ [`Generics, Set e Map`](Exercícios/Generics,%20Set%20e%20Map/): Aprofundando o entendimento sobre Generics em Java, uma poderosa ferrramenta para trablhar com diferentes tipos de dados de forma flexível e segura. E explorando o uso de conjuntos e mapas, incluindo HashSet, TreeSet, LinkedHashSet, HashMap, TreeMap e LinkedHashMap, para manipular dados de forma eficiente e segura.
 
+- 🚀 [`Programação funcional e expressões lambda`](Exercícios/Programação%20funcional%20e%20expressões%20lambda/): Aprimorando habilidades na prática da programação funcional, explorando o poder das expressões lambda em Java. Desenvolvendo a capacidade de resolver problemas de maneira concisa e elegante, utilizando funções de ordem superior e comportamentos encapsulados em expressões lambda.
 
 Você pode encontrar todos os exercícios na pasta [`Exercícios/`](Exercícios/). Certifique-se de explorar cada pasta individualmente para obter mais detalhes sobre cada exercício.
 
